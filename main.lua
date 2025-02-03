@@ -1,7 +1,7 @@
 local Rayfield = loadstring(game:HttpGet('https://raw.githubusercontent.com/ruliyanto22/lua_rulay/refs/heads/main/ui_scrirt.lua'))()
 
 local Window = Rayfield:CreateWindow({
-    Name = "Retail Script",
+    Name = "Retail Script By Rulay",
     Icon = 0,
     LoadingTitle = "Script Rulay",
     LoadingSubtitle = "by Rulay",
